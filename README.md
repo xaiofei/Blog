@@ -10,7 +10,7 @@
   
 前端好文
 -----------------------------------  
-  1. [好文](https://github.com/xaiofei/Blog/issues/1)<br />   
+  1. [优质好文](https://github.com/xaiofei/Blog/blob/master/process/article.md)<br />   
 
 疑问及交流 
 -----------------------------------  
