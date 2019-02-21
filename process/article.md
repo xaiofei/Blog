@@ -30,11 +30,13 @@ Vue
 5. [vue多页面首页加载优化](https://juejin.im/entry/5bc7ccefe51d450e543ecfac)
 6. [这才是我想要的彩虹进度条-[vue-ins-progress-bar]](https://juejin.im/post/5b44c5e36fb9a04fde5ab077)
 7. [Vue解析--如何应对面试官提问](https://juejin.im/post/5bae435b6fb9a05d0d287c13)
+8. [不好意思！耽误你的十分钟，让MVVM原理还给你](https://juejin.im/post/5abdd6f6f265da23793c4458)
 
 React
 -----------
 1. [带你装逼 用199行代码实现一个mini版react框架](https://mp.weixin.qq.com/s/Gb-ZS71q9-5_vNR0Eyd6Bg)
-2. []()
+2. [React.js 小书
+](http://huziketang.mangojuice.top/books/react/)
 
 Css
 -----------
@@ -56,6 +58,7 @@ Canvas
 2. [浏览器重绘(repaint)重排(reflow)与优化[浏览器机制]](https://juejin.im/post/5c15f797f265da61141c7f86)
 3. [从URL输入到页面展现到底发生什么？](https://juejin.im/post/5bf3ad55f265da61682afc9b)
 4. [一文读懂前端缓存](https://juejin.im/post/5c22ee806fb9a049fb43b2c5)
+5. [WebSocket是时候展现你优秀的一面了](https://juejin.im/post/5bc7f6b96fb9a05d3447eef8)
 
 其他
 ----------------
@@ -67,9 +70,17 @@ Canvas
 6. [实战项目之自动简历](https://juejin.im/post/5b9d27ddf265da0ad7019775)
 7. [whistle--前端调试利器](https://juejin.im/entry/5bac56f85188255c8321186d)
 8. [聊聊我对现代前端框架的认知](https://juejin.im/entry/5bc31c34e51d450e664b9805)
+9. [自己总结的web前端知识体系大全](https://www.cnblogs.com/wangfupeng1988/p/4649709.html)
+10.[从 0 开始学习 Three.js : 场景搭建](https://juejin.im/post/5ab07d186fb9a028b92cf79d)
+11.[炫酷粒子表白，双十一脱单靠它了](https://juejin.im/post/5bdfe1dbe51d45054771f9d4)
 
 面试题
 -----------
 1. [致莫名其妙被关注的面试之补充篇](https://juejin.im/post/5b4de8b16fb9a04fa8672375)
 2. [2018前端面试总结](https://juejin.im/post/5b94d8965188255c5a0cdc02)
 3. [一篇文章搞定前端面试](https://juejin.im/post/5bbaa549e51d450e827b6b13)
+
+优秀博主
+-----------
+1. [技术胖typescript](https://jspang.com/post/typescript.html)
+2. [这波能反杀](https://www.jianshu.com/u/10ae59f49b13)
