@@ -13,7 +13,7 @@ JavaScript
 7. [这一次，彻底弄懂 JavaScript 执行机制](https://juejin.im/post/59e85eebf265da430d571f89)
 8. [JavaScript 事件循环及异步原理](https://juejin.im/post/5bc1adc45188255c82553921)
 9. [JavaScript 开发者应懂的 33 个概念](https://juejin.im/entry/5bc9aae56fb9a05d20687bf3)
-10.[JavaScript 原型精髓 #一篇就够系列](https://juejin.im/post/5bcdb6c6f265da0afd4b75c0)
+10. [JavaScript 原型精髓 #一篇就够系列](https://juejin.im/post/5bcdb6c6f265da0afd4b75c0)
 
 Webpack
 -----------------------------------
@@ -71,8 +71,8 @@ Canvas
 7. [whistle--前端调试利器](https://juejin.im/entry/5bac56f85188255c8321186d)
 8. [聊聊我对现代前端框架的认知](https://juejin.im/entry/5bc31c34e51d450e664b9805)
 9. [自己总结的web前端知识体系大全](https://www.cnblogs.com/wangfupeng1988/p/4649709.html)
-10.[从 0 开始学习 Three.js : 场景搭建](https://juejin.im/post/5ab07d186fb9a028b92cf79d)
-11.[炫酷粒子表白，双十一脱单靠它了](https://juejin.im/post/5bdfe1dbe51d45054771f9d4)
+10. [从 0 开始学习 Three.js : 场景搭建](https://juejin.im/post/5ab07d186fb9a028b92cf79d)
+11. [炫酷粒子表白，双十一脱单靠它了](https://juejin.im/post/5bdfe1dbe51d45054771f9d4)
 
 面试题
 -----------
