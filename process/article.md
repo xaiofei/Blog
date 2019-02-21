@@ -4,4 +4,4 @@
 JavaScript
 -----------------------------------
 
-1.[JavaScript数组去重（12种方法，史上最全）](https://segmentfault.com/a/1190000016418021)<br />
+1. [JavaScript数组去重（12种方法，史上最全）](https://segmentfault.com/a/1190000016418021)<br />
