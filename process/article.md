@@ -59,6 +59,7 @@ Canvas
 3. [从URL输入到页面展现到底发生什么？](https://juejin.im/post/5bf3ad55f265da61682afc9b)
 4. [一文读懂前端缓存](https://juejin.im/post/5c22ee806fb9a049fb43b2c5)
 5. [WebSocket是时候展现你优秀的一面了](https://juejin.im/post/5bc7f6b96fb9a05d3447eef8)
+6. [浏览器原理系列10篇正式完结](https://juejin.im/post/5c6d3e026fb9a04a0d576f98)
 
 其他
 ----------------
