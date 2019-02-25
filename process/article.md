@@ -16,12 +16,17 @@ JavaScript
 10. [JavaScript 原型精髓 #一篇就够系列](https://juejin.im/post/5bcdb6c6f265da0afd4b75c0)
 11. [每个 JavaScript 工程师都应懂的33个概念 ](https://github.com/stephentian/33-js-concepts)
 12. [弹幕，是怎样练成的？](https://juejin.im/post/5be54a286fb9a049ae07641b)
+13. [深入理解js内存机制](https://www.oecom.cn/understanding-of-js-memory-mechanism/)
+14. [js:面向对象编程，带你认识封装、继承和多态](https://juejin.im/post/59396c96fe88c2006afc2707)
+15. [__proto__和prototype](https://juejin.im/post/5af7f0656fb9a07a9c044df3)
+16, [js实现各种常用排序算法](https://www.tuicool.com/articles/IjInMbU)
 
 Webpack
 -----------------------------------
 1. [vue-cli webpack配置分析](https://segmentfault.com/a/1190000008644830)
 2. [vue-cli的webpack模板项目配置文件分析](https://blog.csdn.net/hongchh/article/details/55113751)
 3. [一口(很长的)气了解 babel](https://juejin.im/post/5c19c5e0e51d4502a232c1c6)
+4. [webpack 插件总结归类](https://segmentfault.com/a/1190000016816813)
 
 Vue
 -----------
@@ -33,12 +38,14 @@ Vue
 6. [这才是我想要的彩虹进度条-[vue-ins-progress-bar]](https://juejin.im/post/5b44c5e36fb9a04fde5ab077)
 7. [Vue解析--如何应对面试官提问](https://juejin.im/post/5bae435b6fb9a05d0d287c13)
 8. [不好意思！耽误你的十分钟，让MVVM原理还给你](https://juejin.im/post/5abdd6f6f265da23793c4458)
+9. [「伪全栈」Vue2.5+Node.js搭建一个多页面商城应用](https://juejin.im/post/5bf676acf265da6166241b0e)
+10. [浅探VUE的MVVM模式实现](https://juejin.im/post/5bee2d436fb9a049f818dcfb)
 
 React
 -----------
 1. [带你装逼 用199行代码实现一个mini版react框架](https://mp.weixin.qq.com/s/Gb-ZS71q9-5_vNR0Eyd6Bg)
-2. [React.js 小书
-](http://huziketang.mangojuice.top/books/react/)
+2. [React.js 小书](http://huziketang.mangojuice.top/books/react/)
+3. [能否模拟实现JS的bind方法](https://juejin.im/post/5bec4183f265da616b1044d7)
 
 Css
 -----------
@@ -49,10 +56,14 @@ Css
 Canvas
 -----------
 1. [canvas绘制太阳系](https://www.cnblogs.com/edwardloveyou/p/7740237.html)
+2. [canvas 初体验之 16 个经典 canvas 实例](http://www.sohu.com/a/165261084_283613)
+3. [Canvas API 详解](https://juejin.im/post/5ac437b5f265da238f12c1c6)
 
 优化
 ------------
 1. [这份优化清单，你都做了吗？](https://juejin.im/post/5bbaeb48f265da0aca3323c1)
+2. [WEB 前端模块化都有什么？](https://juejin.im/post/5bf4f6515188251a8266038b)
+3. [[盘点] 项目中可以怎么优化图片](https://juejin.im/post/5bfac3bd51882566936071e1)
 
 浏览器相关
 -------------
@@ -62,6 +73,13 @@ Canvas
 4. [一文读懂前端缓存](https://juejin.im/post/5c22ee806fb9a049fb43b2c5)
 5. [WebSocket是时候展现你优秀的一面了](https://juejin.im/post/5bc7f6b96fb9a05d3447eef8)
 6. [浏览器原理系列10篇正式完结](https://juejin.im/post/5c6d3e026fb9a04a0d576f98)
+7. [浅谈HTTP缓存](https://juejin.im/post/5bdeabbbe51d4505466cd741)
+8. [正向代理与反向代理【总结】](https://www.cnblogs.com/Anker/p/6056540.html)
+9. [反向代理为何叫反向代理？](https://www.zhihu.com/question/24723688)
+10. [http和https的区别，当然不是只差个S这么简单！](https://baijiahao.baidu.com/s?id=1610573943244091848&wfr=spider&for=pc)
+11. [web安全：通俗易懂，以实例讲述破解网站的原理及如何进行防护！如何让网站变得更安全。](http://www.cnblogs.com/1996V/p/7458377.html)
+12. [http协商缓存VS强缓存](https://www.cnblogs.com/wonyun/p/5524617.html)
+13. [从URL输入到页面展现到底发生什么？](https://juejin.im/post/5bf3ad55f265da61682afc9b)
 
 其他
 ----------------
@@ -87,10 +105,32 @@ Canvas
 3. [一篇文章搞定前端面试](https://juejin.im/post/5bbaa549e51d450e827b6b13)
 4. [InterviewMap,赞赞👍](https://yuchengkai.cn/docs/frontend/vue.html#nexttick-%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90)
 5. [前端面试查漏补缺--(十) 前端鉴权](https://juejin.im/post/5c6e6063f265da2da53ec8f3)
+6. [年终回顾，为你汇总一份「前端技术清单」](https://juejin.im/post/5bdfb387e51d452c8e0aa902)
+7. [几道JS代码手写题以及一些代码实现](https://juejin.im/post/5aa7d82c6fb9a028c522de43)
+8. [一年半经验，百度、有赞、阿里前端面试总结](https://juejin.im/post/5befeb5051882511a8527dbe)
+9. [前端面试的一道算法题（使用canvas解答）](https://www.jianshu.com/p/f54d265f7aa4)
+10. [某大厂面试题与解析（欢迎纠错，优化）](https://juejin.im/post/5be2fcd7f265da616d53aad0)
+11. [前端面试题整理](https://www.jianshu.com/p/feab89b88d6b)
+12. [JavaScript之深拷贝和浅拷贝](https://juejin.im/post/5bed21ec51882517193551e3)
+13. [一道面试题引起的思考](https://juejin.im/post/5bf769e0518825773a2ebfe5)
 
 es6
 -------------
 1. [ES6的Symbol竟然那么强大](https://juejin.im/post/5bdbb3406fb9a022752c319e)
+2. [前端er，你真的会用 async 吗？](https://juejin.im/post/5c0397186fb9a049b5068e54)
+
+框架
+-------------
+1. [Egg.js](https://eggjs.org/zh-cn/intro/index.html)
+2. [Jquery插件库](http://www.jq22.com/)
+3. [极限压缩图片工具](https://tinypng.com/)
+4. [jk-ui](http://www.goingtrace.com/#/loading)
+5. [vultr](https://www.vultr.com/)
+6. [Rax用的跨容器的渲染引擎](https://alibaba.github.io/rax/component/icon)
+7. [dva](https://dvajs.com/guide/#%E7%89%B9%E6%80%A7)
+8. [Pixi教程](https://github.com/Zainking/learningPixi#settingup)
+9. [Vue插件库](https://github.com/vuejs/awesome-vue#components--libraries)
+10. [reactnative](https://reactnative.cn/)
 
 优秀博主
 -----------
@@ -98,3 +138,5 @@ es6
 2. [这波能反杀](https://www.jianshu.com/u/10ae59f49b13)
 3. [KieSun](https://github.com/KieSun/Dream)
 4. [前端练手小项目](https://github.com/forrany/Web-Project)
+5. [学习资源 or 大前端导航，持续更新](https://github.com/webproblem/learning-article)
+6. [冴羽写博客的地方](https://github.com/mqyqingfeng/Blog)
