@@ -160,10 +160,12 @@ es6
 9. [Vue插件库](https://github.com/vuejs/awesome-vue#components--libraries)
 10. [reactnative](https://reactnative.cn/)
 11. [Chameleon快速上手简易教程](https://juejin.im/post/5c63eefa6fb9a049a42f8ad4)
+12. [Vue Router](https://router.vuejs.org/zh/guide/advanced/navigation-guards.html#%E5%85%A8%E5%B1%80%E5%89%8D%E7%BD%AE%E5%AE%88%E5%8D%AB)
 
 Node
 -----------
 1. [Node - 从0基础到实战企业官网](https://juejin.im/post/5c1f8e52f265da6170071e43)
+2. [前端跨域问题解决方案(基于node与nginx)](https://juejin.im/post/5c35f6286fb9a049be5dad82)
 
 优秀博主
 -----------
