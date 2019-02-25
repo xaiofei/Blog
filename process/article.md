@@ -19,7 +19,9 @@ JavaScript
 13. [深入理解js内存机制](https://www.oecom.cn/understanding-of-js-memory-mechanism/)
 14. [js:面向对象编程，带你认识封装、继承和多态](https://juejin.im/post/59396c96fe88c2006afc2707)
 15. [__proto__和prototype](https://juejin.im/post/5af7f0656fb9a07a9c044df3)
-16, [js实现各种常用排序算法](https://www.tuicool.com/articles/IjInMbU)
+16. [js实现各种常用排序算法](https://www.tuicool.com/articles/IjInMbU)
+17. [JavaScript 中的事件机制（从原生到框架）](https://juejin.im/post/5c727abde51d457fc564cd77)
+18. [JS专题之垃圾回收](https://juejin.im/post/5c5ebc505188256219174f19)
 
 Webpack
 -----------------------------------
@@ -40,6 +42,10 @@ Vue
 8. [不好意思！耽误你的十分钟，让MVVM原理还给你](https://juejin.im/post/5abdd6f6f265da23793c4458)
 9. [「伪全栈」Vue2.5+Node.js搭建一个多页面商城应用](https://juejin.im/post/5bf676acf265da6166241b0e)
 10. [浅探VUE的MVVM模式实现](https://juejin.im/post/5bee2d436fb9a049f818dcfb)
+11. [Vue全家桶+Socket.io+Koa2打造一个智能聊天室 接口已开放](https://juejin.im/post/5913047eac502e0065646ead)
+12. [react-router的实现原理](https://blog.csdn.net/tangzhl/article/details/79696055)
+13. [简单理解Vue中的nextTick](https://juejin.im/post/5a6fdb846fb9a01cc0268618)
+14. [在单页应用中，如何优雅的监听url的变化](https://juejin.im/post/5c26ec2f51882501cd6f497a)
 
 React
 -----------
@@ -64,6 +70,10 @@ Canvas
 1. [这份优化清单，你都做了吗？](https://juejin.im/post/5bbaeb48f265da0aca3323c1)
 2. [WEB 前端模块化都有什么？](https://juejin.im/post/5bf4f6515188251a8266038b)
 3. [[盘点] 项目中可以怎么优化图片](https://juejin.im/post/5bfac3bd51882566936071e1)
+4. [Web前端性能优化——如何提高页面加载速度](https://www.cnblogs.com/MarcoHan/p/5295398.html)
+5. [JavaScript模块化原理浅析](https://juejin.im/post/5c1083186fb9a049ec6aed5e)
+6. [前端模块化详解(完整版)](https://juejin.im/post/5c17ad756fb9a049ff4e0a62)
+7. [利用超市买牛奶来解释web缓存](https://juejin.im/post/5c20481ee51d451b1c6dc772)
 
 浏览器相关
 -------------
@@ -80,6 +90,9 @@ Canvas
 11. [web安全：通俗易懂，以实例讲述破解网站的原理及如何进行防护！如何让网站变得更安全。](http://www.cnblogs.com/1996V/p/7458377.html)
 12. [http协商缓存VS强缓存](https://www.cnblogs.com/wonyun/p/5524617.html)
 13. [从URL输入到页面展现到底发生什么？](https://juejin.im/post/5bf3ad55f265da61682afc9b)
+14. [WebSocket 快速入门](https://juejin.im/post/5c0d0e466fb9a049f66beefe)
+15. [跨域要不要了解下】NGINX 反向代理](https://juejin.im/post/5c0e6d606fb9a049f66bf246)
+16. [你真的了解回流和重绘吗](https://juejin.im/post/5c0f104551882509a7683d63)
 
 其他
 ----------------
@@ -97,6 +110,8 @@ Canvas
 12. [vue-treeselect](https://vue-treeselect.js.org/#async-searching)
 13. [如何建立自己的网站(博客）？](https://www.jianshu.com/p/ed151681b067)
 14. [手把手教你搭建属于自己的网站-WordPress](https://baijiahao.baidu.com/s?id=1571608833061697&wfr=spider&for=pc)
+15. [关于Mac下安装nodejs、npm和cnpm的教程](https://www.jb51.net/article/138083.htm)
+16. [斗图神器--纯前端实现视频转GIF制作表情包](https://juejin.im/post/5c2ac145f265da61483bb37f)
 
 面试题
 -----------
@@ -113,11 +128,24 @@ Canvas
 11. [前端面试题整理](https://www.jianshu.com/p/feab89b88d6b)
 12. [JavaScript之深拷贝和浅拷贝](https://juejin.im/post/5bed21ec51882517193551e3)
 13. [一道面试题引起的思考](https://juejin.im/post/5bf769e0518825773a2ebfe5)
+14. [前端面试汇总](https://juejin.im/post/5c0e68ec6fb9a04a01642925)
+15. [老生常谈-实现一个Promise](https://juejin.im/post/5c0dc1bd6fb9a049e06328f7)
+16. [前端面试遇到的算法题](https://juejin.im/post/5aa7c2306fb9a028c14a24b8)
+17. [一道常被人轻视的前端JS面试题](https://www.cnblogs.com/xxcanghai/p/5189353.html)
+18. [能否模拟实现JS的new操作符](https://juejin.im/post/5bde7c926fb9a049f66b8b52)
+19. [你能否模拟实现JS的bind方法？](https://mp.weixin.qq.com/s/iA5kx2LuLX05H4c6beSmNg)
+20. [寒冬中的一年半前端跳槽](https://juejin.im/post/5c356f68f265da61483bca61)
+21. [腾讯面试篇（三）——终章](https://juejin.im/post/5c1eec7bf265da61477034ae)
+22. [大部分人都会做错的经典JS闭包面试题](http://www.cnblogs.com/xxcanghai/p/4991870.html)
+23. [如何轻松拿到淘宝前端 offer](https://juejin.im/post/5bbc54a2e51d450e5a7445b4#heading-14)
+24. [从这两套题，重新认识JS的this、作用域、闭包、对象](https://segmentfault.com/a/1190000010981003)
 
 es6
 -------------
 1. [ES6的Symbol竟然那么强大](https://juejin.im/post/5bdbb3406fb9a022752c319e)
 2. [前端er，你真的会用 async 吗？](https://juejin.im/post/5c0397186fb9a049b5068e54)
+3. [ES6面试、复习干货知识点汇总](https://juejin.im/post/5c061ed2f265da61357258ee)
+4. [深入Babel，这一篇就够了](https://juejin.im/post/5c21b584e51d4548ac6f6c99)
 
 框架
 -------------
@@ -131,6 +159,11 @@ es6
 8. [Pixi教程](https://github.com/Zainking/learningPixi#settingup)
 9. [Vue插件库](https://github.com/vuejs/awesome-vue#components--libraries)
 10. [reactnative](https://reactnative.cn/)
+11. [Chameleon快速上手简易教程](https://juejin.im/post/5c63eefa6fb9a049a42f8ad4)
+
+Node
+-----------
+1. [Node - 从0基础到实战企业官网](https://juejin.im/post/5c1f8e52f265da6170071e43)
 
 优秀博主
 -----------
@@ -140,3 +173,5 @@ es6
 4. [前端练手小项目](https://github.com/forrany/Web-Project)
 5. [学习资源 or 大前端导航，持续更新](https://github.com/webproblem/learning-article)
 6. [冴羽写博客的地方](https://github.com/mqyqingfeng/Blog)
+7. [我是木易杨](https://github.com/yygmind/blog)
+8. [fairy](https://github.com/fairyly)
