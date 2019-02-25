@@ -166,6 +166,7 @@ Node
 -----------
 1. [Node - 从0基础到实战企业官网](https://juejin.im/post/5c1f8e52f265da6170071e43)
 2. [前端跨域问题解决方案(基于node与nginx)](https://juejin.im/post/5c35f6286fb9a049be5dad82)
+3. [vue+node+mysql搭建个人博客](https://segmentfault.com/a/1190000012186439)
 
 优秀博主
 -----------
