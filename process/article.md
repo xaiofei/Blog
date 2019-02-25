@@ -14,6 +14,8 @@ JavaScript
 8. [JavaScript 事件循环及异步原理](https://juejin.im/post/5bc1adc45188255c82553921)
 9. [JavaScript 开发者应懂的 33 个概念](https://juejin.im/entry/5bc9aae56fb9a05d20687bf3)
 10. [JavaScript 原型精髓 #一篇就够系列](https://juejin.im/post/5bcdb6c6f265da0afd4b75c0)
+11. [每个 JavaScript 工程师都应懂的33个概念 ](https://github.com/stephentian/33-js-concepts)
+12. [弹幕，是怎样练成的？](https://juejin.im/post/5be54a286fb9a049ae07641b)
 
 Webpack
 -----------------------------------
@@ -74,6 +76,9 @@ Canvas
 9. [自己总结的web前端知识体系大全](https://www.cnblogs.com/wangfupeng1988/p/4649709.html)
 10. [从 0 开始学习 Three.js : 场景搭建](https://juejin.im/post/5ab07d186fb9a028b92cf79d)
 11. [炫酷粒子表白，双十一脱单靠它了](https://juejin.im/post/5bdfe1dbe51d45054771f9d4)
+12. [vue-treeselect](https://vue-treeselect.js.org/#async-searching)
+13. [如何建立自己的网站(博客）？](https://www.jianshu.com/p/ed151681b067)
+14. [手把手教你搭建属于自己的网站-WordPress](https://baijiahao.baidu.com/s?id=1571608833061697&wfr=spider&for=pc)
 
 面试题
 -----------
@@ -81,9 +86,15 @@ Canvas
 2. [2018前端面试总结](https://juejin.im/post/5b94d8965188255c5a0cdc02)
 3. [一篇文章搞定前端面试](https://juejin.im/post/5bbaa549e51d450e827b6b13)
 4. [InterviewMap,赞赞👍](https://yuchengkai.cn/docs/frontend/vue.html#nexttick-%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90)
+5. [前端面试查漏补缺--(十) 前端鉴权](https://juejin.im/post/5c6e6063f265da2da53ec8f3)
+
+es6
+-------------
+1. [ES6的Symbol竟然那么强大](https://juejin.im/post/5bdbb3406fb9a022752c319e)
 
 优秀博主
 -----------
 1. [技术胖typescript](https://jspang.com/post/typescript.html)
 2. [这波能反杀](https://www.jianshu.com/u/10ae59f49b13)
 3. [KieSun](https://github.com/KieSun/Dream)
+4. [前端练手小项目](https://github.com/forrany/Web-Project)
