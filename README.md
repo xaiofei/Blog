@@ -6,9 +6,9 @@
 -----------------------------------  
   1. [撇一撇this](https://github.com/xaiofei/Blog/issues/1)<br />  
   
-前端难点
+前端难点(个人书写)
 -----------------------------------  
-  1. [撇一撇this](https://github.com/xaiofei/Blog/issues/1)<br /> 
+  1. [作为一个(伪)全栈工程师的第一步](https://github.com/xaiofei/Blog/issues/1)<br /> 
   
 前端好文
 -----------------------------------  
