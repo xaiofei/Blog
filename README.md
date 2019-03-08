@@ -6,7 +6,7 @@
 -----------------------------------  
   1. [聊一聊this](https://github.com/xaiofei/Blog/issues/1)<br />  
   
-前端难点(个人书写)
+前端笔记(个人书写)
 -----------------------------------  
   1. [作为一个(伪)全栈工程师的第一步](https://github.com/xaiofei/Blog/issues/2)<br /> 
   
