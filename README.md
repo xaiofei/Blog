@@ -5,6 +5,7 @@
 前端JS系列(个人书写)
 -----------------------------------  
   1. [聊一聊this](https://github.com/xaiofei/Blog/issues/1)<br />  
+  2. [聊一聊原型和原型链](https://github.com/xaiofei/Blog/issues/3)<br />
   
 前端笔记(个人书写)
 -----------------------------------  
