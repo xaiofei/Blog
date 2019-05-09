@@ -22,6 +22,7 @@ JavaScript
 16. [js实现各种常用排序算法](https://www.tuicool.com/articles/IjInMbU)
 17. [JavaScript 中的事件机制（从原生到框架）](https://juejin.im/post/5c727abde51d457fc564cd77)
 18. [JS专题之垃圾回收](https://juejin.im/post/5c5ebc505188256219174f19)
+19. [JS中的栈内存、堆内存](https://juejin.im/post/5c7157f3e51d4526643fac46)
 
 Webpack
 -----------------------------------
@@ -52,12 +53,14 @@ React
 1. [带你装逼 用199行代码实现一个mini版react框架](https://mp.weixin.qq.com/s/Gb-ZS71q9-5_vNR0Eyd6Bg)
 2. [React.js 小书](http://huziketang.mangojuice.top/books/react/)
 3. [能否模拟实现JS的bind方法](https://juejin.im/post/5bec4183f265da616b1044d7)
+4. [chat-react](https://github.com/Hzy0913/chat-react)
 
 Css
 -----------
 1. [纯css模拟下雪效果](https://juejin.im/post/5c4525ab6fb9a049bb7ca45c)
 2. [不可思议的纯 CSS 滚动进度条效果](https://juejin.im/post/5c35953ce51d45523f04b6d2)
 3. [CSS遮罩CSS3 mask/masks详细介绍](https://www.zhangxinxu.com/wordpress/2017/11/css-css3-mask-masks/)
+4. [那些你需要知道的CSS-总结](https://juejin.im/post/5c7646e2f265da2d8e70f681)
 
 Canvas
 -----------
@@ -112,6 +115,8 @@ Canvas
 14. [手把手教你搭建属于自己的网站-WordPress](https://baijiahao.baidu.com/s?id=1571608833061697&wfr=spider&for=pc)
 15. [关于Mac下安装nodejs、npm和cnpm的教程](https://www.jb51.net/article/138083.htm)
 16. [斗图神器--纯前端实现视频转GIF制作表情包](https://juejin.im/post/5c2ac145f265da61483bb37f)
+17. [一名【合格】前端工程师的自检清单](https://juejin.im/post/5cc1da82f265da036023b628#comment)
+18. [手把手教你实现H5微信分享](https://juejin.im/post/5cb7d6def265da03576ebd6f)
 
 面试题
 -----------
@@ -167,6 +172,11 @@ Node
 1. [Node - 从0基础到实战企业官网](https://juejin.im/post/5c1f8e52f265da6170071e43)
 2. [前端跨域问题解决方案(基于node与nginx)](https://juejin.im/post/5c35f6286fb9a049be5dad82)
 3. [vue+node+mysql搭建个人博客](https://segmentfault.com/a/1190000012186439)
+4. [Node + Express + MySQL 接口开发完整案例](https://blog.csdn.net/u013216976/article/details/85273770)
+5. [「真®全栈之路」Web前端开发的后端指南](https://juejin.im/post/5cc02aacf265da039e1ff3fa)
+6. [用Node + EJS写一个爬虫脚本每天定时女朋友发一封暖心邮件](https://juejin.im/post/5c75fa4af265da2d84109219)
+7. [Nodejs学习路线图](https://www.cnblogs.com/callmeguxi/p/6879688.html)
+8. [迈出全栈的第一步](https://github.com/win5do/vue-fb-demo)
 
 优秀博主
 -----------
@@ -178,3 +188,4 @@ Node
 6. [冴羽写博客的地方](https://github.com/mqyqingfeng/Blog)
 7. [我是木易杨](https://github.com/yygmind/blog)
 8. [fairy](https://github.com/fairyly)
+9. [菜鸟学院](http://www.cainiaoxueyuan.com/)
