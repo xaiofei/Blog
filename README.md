@@ -12,8 +12,7 @@
 -----------------------------------  
   1. [作为一个(伪)全栈工程师的第一步](https://github.com/xaiofei/Blog/issues/2)<br /> 
   2. [git 操作命令执行回滚之后怎样恢复](https://github.com/xaiofei/Blog/issues/5)<br /> 
-  3. [Vue 文件导出方法总结](https://github.com/xaiofei/Blog/issues/6
-  )<br /> 
+  3. [Vue 文件导出方法总结](https://github.com/xaiofei/Blog/issues/6)<br /> 
   
 前端好文
 -----------------------------------  
