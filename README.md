@@ -6,7 +6,7 @@
 -----------------------------------  
   1. [聊一聊this](https://github.com/xaiofei/Blog/issues/1)<br />  
   2. [聊一聊原型和原型链](https://github.com/xaiofei/Blog/issues/3)<br />
-  3. [聊一聊继承](https://github.com/xaiofei/Blog/issues/4)<br />
+  3. [聊一聊继承方案](https://github.com/xaiofei/Blog/issues/4)<br />
   4. [聊一聊JS中的栈内存和堆内存](https://github.com/xaiofei/Blog/issues/8)<br />
   
 前端笔记(个人书写)
