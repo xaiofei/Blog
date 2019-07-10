@@ -23,6 +23,8 @@ JavaScript
 17. [JavaScript 中的事件机制（从原生到框架）](https://juejin.im/post/5c727abde51d457fc564cd77)
 18. [JS专题之垃圾回收](https://juejin.im/post/5c5ebc505188256219174f19)
 19. [JS中的栈内存、堆内存](https://juejin.im/post/5c7157f3e51d4526643fac46)
+20. [28 个 JavaScript 技巧](https://juejin.im/post/5cef46226fb9a07eaf2b7516)
+21. [你必须要懂的原生JS](https://juejin.im/post/5cbd1e33e51d45789161d053)
 
 Webpack
 -----------------------------------
@@ -30,6 +32,7 @@ Webpack
 2. [vue-cli的webpack模板项目配置文件分析](https://blog.csdn.net/hongchh/article/details/55113751)
 3. [一口(很长的)气了解 babel](https://juejin.im/post/5c19c5e0e51d4502a232c1c6)
 4. [webpack 插件总结归类](https://segmentfault.com/a/1190000016816813)
+5. [webpack学习笔记（原理，实现loader和插件](https://mp.weixin.qq.com/s/CBrF4Bm8m0yDJ4J0FYq9ug)
 
 Vue
 -----------
@@ -54,6 +57,7 @@ React
 2. [React.js 小书](http://huziketang.mangojuice.top/books/react/)
 3. [能否模拟实现JS的bind方法](https://juejin.im/post/5bec4183f265da616b1044d7)
 4. [chat-react](https://github.com/Hzy0913/chat-react)
+5. [谈谈React虚拟DOM和diff算法](https://juejin.im/post/5ceca77c6fb9a07eec59aa35)
 
 Css
 -----------
@@ -61,6 +65,7 @@ Css
 2. [不可思议的纯 CSS 滚动进度条效果](https://juejin.im/post/5c35953ce51d45523f04b6d2)
 3. [CSS遮罩CSS3 mask/masks详细介绍](https://www.zhangxinxu.com/wordpress/2017/11/css-css3-mask-masks/)
 4. [那些你需要知道的CSS-总结](https://juejin.im/post/5c7646e2f265da2d8e70f681)
+5. [CSS Tricks](https://qishaoxuan.github.io/css_tricks/loading/#loading-1)
 
 Canvas
 -----------
@@ -117,6 +122,7 @@ Canvas
 16. [斗图神器--纯前端实现视频转GIF制作表情包](https://juejin.im/post/5c2ac145f265da61483bb37f)
 17. [一名【合格】前端工程师的自检清单](https://juejin.im/post/5cc1da82f265da036023b628#comment)
 18. [手把手教你实现H5微信分享](https://juejin.im/post/5cb7d6def265da03576ebd6f)
+20. [教你如何用node.js开发微信公众号](https://juejin.im/post/5bee8507e51d457c042c23c8)
 
 面试题
 -----------
@@ -144,6 +150,7 @@ Canvas
 22. [大部分人都会做错的经典JS闭包面试题](http://www.cnblogs.com/xxcanghai/p/4991870.html)
 23. [如何轻松拿到淘宝前端 offer](https://juejin.im/post/5bbc54a2e51d450e5a7445b4#heading-14)
 24. [从这两套题，重新认识JS的this、作用域、闭包、对象](https://segmentfault.com/a/1190000010981003)
+25. [前端面试每日 3+1，以面试题来驱动学习](https://github.com/haizlin/fe-interview)
 
 es6
 -------------
@@ -190,3 +197,4 @@ Node
 8. [fairy](https://github.com/fairyly)
 9. [菜鸟学院](http://www.cainiaoxueyuan.com/)
 10. [airuikun](https://github.com/airuikun)
+11. [前端技能汇总](https://github.com/JacksonTian/fks)
