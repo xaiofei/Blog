@@ -50,6 +50,9 @@ Vue
 12. [react-router的实现原理](https://blog.csdn.net/tangzhl/article/details/79696055)
 13. [简单理解Vue中的nextTick](https://juejin.im/post/5a6fdb846fb9a01cc0268618)
 14. [在单页应用中，如何优雅的监听url的变化](https://juejin.im/post/5c26ec2f51882501cd6f497a)
+15. [Vue.js 源码解析 ](https://github.com/answershuto/learnVue)
+16. [在vue-cli3.0中添加骨架屏 ](https://www.jianshu.com/p/cb5717c5948f)
+17. [Vue.js 技术揭秘（源码）](https://ustbhuangyi.github.io/vue-analysis/prepare/)
 
 React
 -----------
@@ -123,6 +126,9 @@ Canvas
 17. [一名【合格】前端工程师的自检清单](https://juejin.im/post/5cc1da82f265da036023b628#comment)
 18. [手把手教你实现H5微信分享](https://juejin.im/post/5cb7d6def265da03576ebd6f)
 20. [教你如何用node.js开发微信公众号](https://juejin.im/post/5bee8507e51d457c042c23c8)
+21. [Java web 大文件分片上传实例](https://github.com/Fourwenwen/Breakpoint-http)
+22. [沉迷前端，无法自拔的人，如何规划职业生涯？](https://mp.weixin.qq.com/s?__biz=MzIwNjEwNTQ4Mw==&mid=2651579440&idx=1&sn=9aa0a858f374097c2cfb0e21b4579ed0&chksm=8cd9fad4bbae73c25dc6a5cf125e99794f92cb33ffac8af7f837ed1359cda403b3b8d23ff656&scene=21#wechat_redirect)
+23. [那些关于前端数据结构与算法](https://mp.weixin.qq.com/s?__biz=MzIwNjEwNTQ4Mw==&mid=2651579356&idx=4&sn=67bff0b92c20b26845cd22d11eb60239&chksm=8cd9fd38bbae742eba33a53d31cd3a8cafe0da47c419cb17b82270e3191ecf7ba93bf0ca9519&scene=21#wechat_redirect)
 
 面试题
 -----------
@@ -198,3 +204,4 @@ Node
 9. [菜鸟学院](http://www.cainiaoxueyuan.com/)
 10. [airuikun](https://github.com/airuikun)
 11. [前端技能汇总](https://github.com/JacksonTian/fks)
+12. [英文网站](https://frontendmasters.com/)
