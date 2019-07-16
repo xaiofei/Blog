@@ -18,6 +18,9 @@
   5. [前端的性能优化](https://github.com/xaiofei/Blog/issues/9)<br /> 
   6. [我了解的前端安全以及防范](https://github.com/xaiofei/Blog/issues/10)<br /> 
   
+总结遇到的原理以及实现(个人书写)
+-----------------------------------  
+  
 前端好文
 -----------------------------------  
   1. [优质好文](https://github.com/xaiofei/Blog/blob/master/process/article.md)<br />   
