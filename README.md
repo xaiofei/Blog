@@ -21,7 +21,7 @@
 总结遇到的原理以及实现(个人书写)
 -----------------------------------  
  1. [npm install 的安装机制和原理](https://github.com/xaiofei/Blog/issues/11)<br /> 
- 2. [VUE中proxy和defineProperty实现双向数据绑定原理](https://github.com/xaiofei/Blog/issues/11)<br /> 
+ 2. [VUE中proxy和defineProperty实现双向数据绑定原理](https://github.com/xaiofei/Blog/issues/12)<br /> 
   
 前端好文
 -----------------------------------  
