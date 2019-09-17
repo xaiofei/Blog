@@ -25,6 +25,7 @@
  2. [VUE中proxy和defineProperty实现双向数据绑定原理并解释两者的区别](https://github.com/xaiofei/Blog/issues/12)<br /> 
  3. [小结前端路由的原理](https://github.com/xaiofei/Blog/issues/13)<br /> 
  4. [解析 vue.nextTick() 的原理](https://github.com/xaiofei/Blog/issues/14)<br /> 
+ 5. [vue中 响应式 的原理](https://github.com/xaiofei/Blog/issues/16)<br /> 
   
 前端好文
 -----------------------------------  
