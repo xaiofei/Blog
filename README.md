@@ -27,7 +27,8 @@
  3. [小结前端路由的原理](https://github.com/xaiofei/Blog/issues/13)<br /> 
  4. [解析 vue.nextTick() 的原理](https://github.com/xaiofei/Blog/issues/14)<br /> 
  5. [vue中 响应式 的原理](https://github.com/xaiofei/Blog/issues/16)<br /> 
- 5. [如何在ES5环境下实现const](https://github.com/xaiofei/Blog/issues/18)<br /> 
+ 6. [如何在ES5环境下实现const](https://github.com/xaiofei/Blog/issues/18)<br /> 
+ 7. [手写一个深拷贝、浅拷贝](https://github.com/xaiofei/Blog/issues/19)<br /> 
   
 前端好文
 -----------------------------------  
