@@ -56,6 +56,7 @@ Vue
 16. [在vue-cli3.0中添加骨架屏 ](https://www.jianshu.com/p/cb5717c5948f)
 17. [Vue.js 技术揭秘（源码）](https://ustbhuangyi.github.io/vue-analysis/prepare/)
 18. [vue-cli项目目录详解](https://bailinlin.github.io/2018/05/07/vue-cli-webpack/)
+19. [vue导入Excel（.xlsx、.xls）格式，转为Json格式文件](https://blog.csdn.net/qq_37896578/article/details/89839457)
 
 React
 -----------
@@ -136,6 +137,7 @@ Canvas
 23. [那些关于前端数据结构与算法](https://mp.weixin.qq.com/s?__biz=MzIwNjEwNTQ4Mw==&mid=2651579356&idx=4&sn=67bff0b92c20b26845cd22d11eb60239&chksm=8cd9fd38bbae742eba33a53d31cd3a8cafe0da47c419cb17b82270e3191ecf7ba93bf0ca9519&scene=21#wechat_redirect)
 24. [web 埋点实现原理了解一下](https://segmentfault.com/a/1190000014922668)
 25. [github上面编辑格式使用](https://www.cnblogs.com/leechanx/archive/2013/03/25/3322616.html)
+26. [mac下Git的安装和使用](https://www.cnblogs.com/shenmeiya99/p/5691871.html)
 
 面试题
 -----------
