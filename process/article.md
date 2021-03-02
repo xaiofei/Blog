@@ -130,6 +130,7 @@ Canvas
 22. [沉迷前端，无法自拔的人，如何规划职业生涯？](https://mp.weixin.qq.com/s?__biz=MzIwNjEwNTQ4Mw==&mid=2651579440&idx=1&sn=9aa0a858f374097c2cfb0e21b4579ed0&chksm=8cd9fad4bbae73c25dc6a5cf125e99794f92cb33ffac8af7f837ed1359cda403b3b8d23ff656&scene=21#wechat_redirect)
 23. [那些关于前端数据结构与算法](https://mp.weixin.qq.com/s?__biz=MzIwNjEwNTQ4Mw==&mid=2651579356&idx=4&sn=67bff0b92c20b26845cd22d11eb60239&chksm=8cd9fd38bbae742eba33a53d31cd3a8cafe0da47c419cb17b82270e3191ecf7ba93bf0ca9519&scene=21#wechat_redirect)
 24. [web 埋点实现原理了解一下](https://segmentfault.com/a/1190000014922668)
+25. [github上面编辑格式使用](https://www.cnblogs.com/leechanx/archive/2013/03/25/3322616.html)
 
 面试题
 -----------
@@ -165,6 +166,10 @@ es6
 2. [前端er，你真的会用 async 吗？](https://juejin.im/post/5c0397186fb9a049b5068e54)
 3. [ES6面试、复习干货知识点汇总](https://juejin.im/post/5c061ed2f265da61357258ee)
 4. [深入Babel，这一篇就够了](https://juejin.im/post/5c21b584e51d4548ac6f6c99)
+
+TS
+-------------
+1. [ts入门](https://ts.xcatliu.com/)
 
 框架
 -------------
