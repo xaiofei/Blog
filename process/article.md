@@ -26,6 +26,7 @@ JavaScript
 20. [28 个 JavaScript 技巧](https://juejin.im/post/5cef46226fb9a07eaf2b7516)
 21. [你必须要懂的原生JS](https://juejin.im/post/5cbd1e33e51d45789161d053)
 22. [JS变量提升](https://blog.csdn.net/destinytaoer/article/details/81876511)
+23. [获取本周、本月、本季、本年的第一天](https://www.cnblogs.com/wasabii/p/7756560.html)
 
 Webpack
 -----------------------------------
