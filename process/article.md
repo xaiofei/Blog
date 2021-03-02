@@ -25,6 +25,7 @@ JavaScript
 19. [JS中的栈内存、堆内存](https://juejin.im/post/5c7157f3e51d4526643fac46)
 20. [28 个 JavaScript 技巧](https://juejin.im/post/5cef46226fb9a07eaf2b7516)
 21. [你必须要懂的原生JS](https://juejin.im/post/5cbd1e33e51d45789161d053)
+22. [JS变量提升](https://blog.csdn.net/destinytaoer/article/details/81876511)
 
 Webpack
 -----------------------------------
@@ -53,6 +54,7 @@ Vue
 15. [Vue.js 源码解析 ](https://github.com/answershuto/learnVue)
 16. [在vue-cli3.0中添加骨架屏 ](https://www.jianshu.com/p/cb5717c5948f)
 17. [Vue.js 技术揭秘（源码）](https://ustbhuangyi.github.io/vue-analysis/prepare/)
+18. [vue-cli项目目录详解](https://bailinlin.github.io/2018/05/07/vue-cli-webpack/)
 
 React
 -----------
@@ -61,6 +63,7 @@ React
 3. [能否模拟实现JS的bind方法](https://juejin.im/post/5bec4183f265da616b1044d7)
 4. [chat-react](https://github.com/Hzy0913/chat-react)
 5. [谈谈React虚拟DOM和diff算法](https://juejin.im/post/5ceca77c6fb9a07eec59aa35)
+6. [一文看懂react hooks](https://blog.csdn.net/landl_ww/article/details/102158814)
 
 Css
 -----------
@@ -104,6 +107,7 @@ Canvas
 14. [WebSocket 快速入门](https://juejin.im/post/5c0d0e466fb9a049f66beefe)
 15. [跨域要不要了解下】NGINX 反向代理](https://juejin.im/post/5c0e6d606fb9a049f66bf246)
 16. [你真的了解回流和重绘吗](https://juejin.im/post/5c0f104551882509a7683d63)
+17. [深入理解浏览器缓存机制](https://www.jianshu.com/p/54cc04190252)
 
 其他
 ----------------
@@ -159,6 +163,9 @@ Canvas
 23. [如何轻松拿到淘宝前端 offer](https://juejin.im/post/5bbc54a2e51d450e5a7445b4#heading-14)
 24. [从这两套题，重新认识JS的this、作用域、闭包、对象](https://segmentfault.com/a/1190000010981003)
 25. [前端面试每日 3+1，以面试题来驱动学习](https://github.com/haizlin/fe-interview)
+26. [每日一题](https://github.com/Advanced-Frontend/Daily-Interview-Question/blob/master/datum/summary.md)
+27. [面试题](https://github.com/fecommunity/front-end-interview)
+28. [128道面试题](https://juejin.cn/post/6844904151369908232#heading-115)
 
 es6
 -------------
